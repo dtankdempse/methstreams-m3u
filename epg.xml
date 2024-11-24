@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="fca681df86e6def32c0853c10a8008d3">
+    <display-name>Osasuna vs Villarreal - 08:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b38429064032bc85b5237158327e7d3b">
+    <display-name>Southampton vs Liverpool - 09:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cd6a3734558d1ca6bd0f9f33d9192650">
+    <display-name>Como vs Fiorentina - 09:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="17b9dcbf53f93dd5084dcdddffa93a6f">
+    <display-name>Torino vs Monza - 09:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="6da121a1dacf1357eb04b602e54e9291">
+    <display-name>Sevilla vs Rayo Vallecano - 10:15 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0b766d727d3e0f63c2bc15f03c92eb35">
+    <display-name>Portland vs Princeton - 10:30 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5b03eb14997ebfeb071df4b677e693ce">
+    <display-name>Portland vs Princeton - 10:30 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="bb901da5d2596dd2832b6a17b8e866a3">
+    <display-name>NFL Network streams live - 10:42 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7ba6a9d65673f3fe2dedaf8e0bfdd812">
+    <display-name>St John's vs Georgia - 11:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="86508dfb12d4bd27227198e02061ebb2">
+    <display-name>St John's vs Georgia - 11:00 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0b1790737b3b7becb536c88b2e75b616">
+    <display-name>Ipswich Town vs Manchester United - 11:30 AM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2a956b685892dcbbe8f7b8b503839c40">
+    <display-name>Napoli vs Roma - 12:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0c4db78f51ccc29292690ec5e51ac05c">
+    <display-name>Charleston vs Rhode Island - 12:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="a5e59fde7e6247c71f3c6c313cf5e186">
+    <display-name>Charleston vs Rhode Island - 12:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="537d17d5e53c5e5cb0692b19afe16c49">
+    <display-name>Leganes vs Real Madrid - 12:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="35f17be5f4867d92018e3d3c8fc73505">
+    <display-name>FNC 20: Slo Rocky vs Joker - 12:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ad2f56b9129fff0a25132626e3a6aac7">
+    <display-name>Miami vs VCU - 12:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="01533277f28b53cade15bc61e5189a96">
+    <display-name>Miami vs VCU - 12:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ddc5e2793eb63a42d569bddfd98bc9ed">
+    <display-name>NFL REDZONE streams live - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="bf631edb4f2dda2a0603194bc42a93ae">
+    <display-name>Chiefs vs Panthers - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="794bc66953b7070936d37271f4e4f545">
+    <display-name>Vikings vs Bears - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="78a25243c38dc4769ab89423f90bf6c9">
+    <display-name>Titans vs Texans - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fdaaa566a56c063bcbbb4a3bf82bcba8">
+    <display-name>Lions vs Colts - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cb1eed9110d29ca9e382b97b3259bd61">
+    <display-name>Patriots vs Dolphins - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7c1e86ccf9d99df3d63e2e896eeee232">
+    <display-name>Buccaneers vs Giants - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f1e38e43a97ab0e25e1137779f097e8d">
+    <display-name>Cowboys vs Commanders - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="52a310d04725db194ec5a8db64adb459">
+    <display-name>Rutgers vs Kennesaw State - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b9f281e9e1691ed076b45785071a50ee">
+    <display-name>South Florida vs Wright State  - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d2cd426a81d2647dc044c7ba097eebcc">
+    <display-name>Villanova vs Maryland - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="68901674ba148bdcd1812c786b63d356">
+    <display-name>Rutgers vs Kennesaw State - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7a494a8d4bf948fe8ad60c6735d40217">
+    <display-name>South Florida vs Wright State  - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5f1072e17a9ee8a2cc71d01ab7487ac0">
+    <display-name>Villanova vs Maryland - 01:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b076250375ca4b96acee5a51fc9ecd6c">
+    <display-name>Cage Warriors 181 - 01:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="26c96d2a0c83a141be37bcea5827ab9a">
+    <display-name>Lazio vs Bologna - 02:45 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="294a03a8fdda99f9a2bc7fad3d148e81">
+    <display-name>Athletic Club vs Real Sociedad - 03:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f0b975944777795db1d9732059561c70">
+    <display-name>UCF vs LSU - 03:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b243a3c5cbaa52b66ac4d4d6f08ec139">
+    <display-name>Oklahoma State vs Nevada - 03:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="18e79ce530bcc3fced94a1b9e6735501">
+    <display-name>UCF vs LSU - 03:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="188da728bec91732b280907db319d173">
+    <display-name>Oklahoma State vs Nevada - 03:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7f33b6434e26d3fb7d3e2e24e8372d9e">
+    <display-name>Timberwolves vs Celtics - 03:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f096cd914cb8d533cc8e25c90869b3f0">
+    <display-name>ARES FC 27 - 03:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8df8e4cca82c8c8ec6c14ec069ef79ec">
+    <display-name>Florida State vs Massachusetts - 03:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5466f73937c215d38f2a0e080b2b8fbe">
+    <display-name>Florida State vs Massachusetts - 03:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fd63179dbf9f5232cb9b385a5a360927">
+    <display-name>Broncos vs Raiders - 04:05 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="45be015579062dfa2a1e9a875b33559b">
+    <display-name>49ers vs Packers - 04:25 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c650c2622f07ee361a529a843d28fb83">
+    <display-name>Cardinals vs Seahawks - 04:25 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cae831282a3ebd4af2df0ea3d9ba18d0">
+    <display-name>Wizards vs Pacers - 05:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c23788b5089961f4e47f7fa3bc4932f9">
+    <display-name>Pittsburgh vs Wisconsin - 05:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="369fcacf10724751420ffaca25ce7696">
+    <display-name>M. Tennessee vs Bradley - 05:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7cb2aec6f34636215a33a716fa28365d">
+    <display-name>Pittsburgh vs Wisconsin - 05:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="925a4b6f8875a1dc760c61deebe0d8ac">
+    <display-name>M. Tennessee vs Bradley - 05:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="af95d09ea58fdbb0000de49cbb292d9b">
+    <display-name>Mavericks vs Heat - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ac13b2f524683eb81dbc9a9b13891b15">
+    <display-name>Clippers vs Sixers - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="dc4022686729428ef1ad3f7cd0bb6934">
+    <display-name>Florida Atlantic vs Seton Hall - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="3bcac26e7d4949df37570c24ecfa4be7">
+    <display-name>Yale vs Delaware - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="19d2f387aac887cef888100660309e70">
+    <display-name>Florida Atlantic vs Seton Hall - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="848fdc05a4bfe3e9e788fc0e34347402">
+    <display-name>Yale vs Delaware - 06:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="be23bbdba3e838988543289f794d3c29">
+    <display-name>Grambling vs USC - 07:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e8f6171f5ec3ba9c778af0978d63457f">
+    <display-name>Grambling vs USC - 07:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fa4288967bf89c392a1267710c5537eb">
+    <display-name>Raptors vs Cavaliers - 07:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0f2faf33021170e106c340be60b420dd">
+    <display-name>Liberty vs Kansas State - 08:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c702015324b981e7b0951f5b9398217d">
+    <display-name>Ohio vs Texas State - 08:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2a822237ba666a4494b960e5263cf325">
+    <display-name>Liberty vs Kansas State - 08:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="81808fca2bff73d6c89012f758d6713e">
+    <display-name>Ohio vs Texas State - 08:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fb263e59d35b753fda39903f5bc0c754">
+    <display-name>Eagles vs Rams - 08:20 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c58c5a802aa47960541b8b4a69e66d2c">
+    <display-name>Drake vs Vanderbilt - 08:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="026b854660b43c528ada787914804bc2">
+    <display-name>Drake vs Vanderbilt - 08:30 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="106bfd397886b63a01a96613957f1eb9">
+    <display-name>Nets vs Kings - 09:00 PM EST - (11/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="fca681df86e6def32c0853c10a8008d3">
+    <title>Osasuna vs Villarreal - 08:00 AM EST - (11/24/2024)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST
+01:00 PM GMT / 02:00 PM CET / 09:00 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="b38429064032bc85b5237158327e7d3b">
+    <title>Southampton vs Liverpool - 09:00 AM EST - (11/24/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="cd6a3734558d1ca6bd0f9f33d9192650">
+    <title>Como vs Fiorentina - 09:00 AM EST - (11/24/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="17b9dcbf53f93dd5084dcdddffa93a6f">
+    <title>Torino vs Monza - 09:00 AM EST - (11/24/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="6da121a1dacf1357eb04b602e54e9291">
+    <title>Sevilla vs Rayo Vallecano - 10:15 AM EST - (11/24/2024)</title>
+    <desc>07:15 AM PST / 08:15 AM MST / 10:15 AM EST
+03:15 PM GMT / 04:15 PM CET / 11:15 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="0b766d727d3e0f63c2bc15f03c92eb35">
+    <title>Portland vs Princeton - 10:30 AM EST - (11/24/2024)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="5b03eb14997ebfeb071df4b677e693ce">
+    <title>Portland vs Princeton - 10:30 AM EST - (11/24/2024)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="bb901da5d2596dd2832b6a17b8e866a3">
+    <title>NFL Network streams live - 10:42 AM EST - (11/24/2024)</title>
+    <desc>07:42 AM PST / 08:42 AM MST / 10:42 AM EST
+03:42 PM GMT / 04:42 PM CET / 11:42 PM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="7ba6a9d65673f3fe2dedaf8e0bfdd812">
+    <title>St John's vs Georgia - 11:00 AM EST - (11/24/2024)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="86508dfb12d4bd27227198e02061ebb2">
+    <title>St John's vs Georgia - 11:00 AM EST - (11/24/2024)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="0b1790737b3b7becb536c88b2e75b616">
+    <title>Ipswich Town vs Manchester United - 11:30 AM EST - (11/24/2024)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="2a956b685892dcbbe8f7b8b503839c40">
+    <title>Napoli vs Roma - 12:00 PM EST - (11/24/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="0c4db78f51ccc29292690ec5e51ac05c">
+    <title>Charleston vs Rhode Island - 12:00 PM EST - (11/24/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="a5e59fde7e6247c71f3c6c313cf5e186">
+    <title>Charleston vs Rhode Island - 12:00 PM EST - (11/24/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="537d17d5e53c5e5cb0692b19afe16c49">
+    <title>Leganes vs Real Madrid - 12:30 PM EST - (11/24/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="35f17be5f4867d92018e3d3c8fc73505">
+    <title>FNC 20: Slo Rocky vs Joker - 12:30 PM EST - (11/24/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="ad2f56b9129fff0a25132626e3a6aac7">
+    <title>Miami vs VCU - 12:30 PM EST - (11/24/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="01533277f28b53cade15bc61e5189a96">
+    <title>Miami vs VCU - 12:30 PM EST - (11/24/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="ddc5e2793eb63a42d569bddfd98bc9ed">
+    <title>NFL REDZONE streams live - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="bf631edb4f2dda2a0603194bc42a93ae">
+    <title>Chiefs vs Panthers - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="794bc66953b7070936d37271f4e4f545">
+    <title>Vikings vs Bears - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="78a25243c38dc4769ab89423f90bf6c9">
+    <title>Titans vs Texans - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="fdaaa566a56c063bcbbb4a3bf82bcba8">
+    <title>Lions vs Colts - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="cb1eed9110d29ca9e382b97b3259bd61">
+    <title>Patriots vs Dolphins - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="7c1e86ccf9d99df3d63e2e896eeee232">
+    <title>Buccaneers vs Giants - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="f1e38e43a97ab0e25e1137779f097e8d">
+    <title>Cowboys vs Commanders - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="52a310d04725db194ec5a8db64adb459">
+    <title>Rutgers vs Kennesaw State - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="b9f281e9e1691ed076b45785071a50ee">
+    <title>South Florida vs Wright State  - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="d2cd426a81d2647dc044c7ba097eebcc">
+    <title>Villanova vs Maryland - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="68901674ba148bdcd1812c786b63d356">
+    <title>Rutgers vs Kennesaw State - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="7a494a8d4bf948fe8ad60c6735d40217">
+    <title>South Florida vs Wright State  - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="5f1072e17a9ee8a2cc71d01ab7487ac0">
+    <title>Villanova vs Maryland - 01:00 PM EST - (11/24/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="b076250375ca4b96acee5a51fc9ecd6c">
+    <title>Cage Warriors 181 - 01:30 PM EST - (11/24/2024)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="26c96d2a0c83a141be37bcea5827ab9a">
+    <title>Lazio vs Bologna - 02:45 PM EST - (11/24/2024)</title>
+    <desc>11:45 AM PST / 12:45 PM MST / 02:45 PM EST
+07:45 PM GMT / 08:45 PM CET / 03:45 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="294a03a8fdda99f9a2bc7fad3d148e81">
+    <title>Athletic Club vs Real Sociedad - 03:00 PM EST - (11/24/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="f0b975944777795db1d9732059561c70">
+    <title>UCF vs LSU - 03:00 PM EST - (11/24/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="b243a3c5cbaa52b66ac4d4d6f08ec139">
+    <title>Oklahoma State vs Nevada - 03:00 PM EST - (11/24/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="18e79ce530bcc3fced94a1b9e6735501">
+    <title>UCF vs LSU - 03:00 PM EST - (11/24/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="188da728bec91732b280907db319d173">
+    <title>Oklahoma State vs Nevada - 03:00 PM EST - (11/24/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="7f33b6434e26d3fb7d3e2e24e8372d9e">
+    <title>Timberwolves vs Celtics - 03:30 PM EST - (11/24/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="f096cd914cb8d533cc8e25c90869b3f0">
+    <title>ARES FC 27 - 03:30 PM EST - (11/24/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="8df8e4cca82c8c8ec6c14ec069ef79ec">
+    <title>Florida State vs Massachusetts - 03:30 PM EST - (11/24/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="5466f73937c215d38f2a0e080b2b8fbe">
+    <title>Florida State vs Massachusetts - 03:30 PM EST - (11/24/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="fd63179dbf9f5232cb9b385a5a360927">
+    <title>Broncos vs Raiders - 04:05 PM EST - (11/24/2024)</title>
+    <desc>01:05 PM PST / 02:05 PM MST / 04:05 PM EST
+09:05 PM GMT / 10:05 PM CET / 05:05 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="45be015579062dfa2a1e9a875b33559b">
+    <title>49ers vs Packers - 04:25 PM EST - (11/24/2024)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST
+09:25 PM GMT / 10:25 PM CET / 05:25 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="c650c2622f07ee361a529a843d28fb83">
+    <title>Cardinals vs Seahawks - 04:25 PM EST - (11/24/2024)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST
+09:25 PM GMT / 10:25 PM CET / 05:25 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="cae831282a3ebd4af2df0ea3d9ba18d0">
+    <title>Wizards vs Pacers - 05:00 PM EST - (11/24/2024)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST
+10:00 PM GMT / 11:00 PM CET / 06:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="c23788b5089961f4e47f7fa3bc4932f9">
+    <title>Pittsburgh vs Wisconsin - 05:30 PM EST - (11/24/2024)</title>
+    <desc>02:30 PM PST / 03:30 PM MST / 05:30 PM EST
+10:30 PM GMT / 11:30 PM CET / 06:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="369fcacf10724751420ffaca25ce7696">
+    <title>M. Tennessee vs Bradley - 05:30 PM EST - (11/24/2024)</title>
+    <desc>02:30 PM PST / 03:30 PM MST / 05:30 PM EST
+10:30 PM GMT / 11:30 PM CET / 06:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="7cb2aec6f34636215a33a716fa28365d">
+    <title>Pittsburgh vs Wisconsin - 05:30 PM EST - (11/24/2024)</title>
+    <desc>02:30 PM PST / 03:30 PM MST / 05:30 PM EST
+10:30 PM GMT / 11:30 PM CET / 06:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="925a4b6f8875a1dc760c61deebe0d8ac">
+    <title>M. Tennessee vs Bradley - 05:30 PM EST - (11/24/2024)</title>
+    <desc>02:30 PM PST / 03:30 PM MST / 05:30 PM EST
+10:30 PM GMT / 11:30 PM CET / 06:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="af95d09ea58fdbb0000de49cbb292d9b">
+    <title>Mavericks vs Heat - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="ac13b2f524683eb81dbc9a9b13891b15">
+    <title>Clippers vs Sixers - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="dc4022686729428ef1ad3f7cd0bb6934">
+    <title>Florida Atlantic vs Seton Hall - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="3bcac26e7d4949df37570c24ecfa4be7">
+    <title>Yale vs Delaware - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="19d2f387aac887cef888100660309e70">
+    <title>Florida Atlantic vs Seton Hall - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="848fdc05a4bfe3e9e788fc0e34347402">
+    <title>Yale vs Delaware - 06:00 PM EST - (11/24/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="be23bbdba3e838988543289f794d3c29">
+    <title>Grambling vs USC - 07:00 PM EST - (11/24/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="e8f6171f5ec3ba9c778af0978d63457f">
+    <title>Grambling vs USC - 07:00 PM EST - (11/24/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="fa4288967bf89c392a1267710c5537eb">
+    <title>Raptors vs Cavaliers - 07:30 PM EST - (11/24/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="0f2faf33021170e106c340be60b420dd">
+    <title>Liberty vs Kansas State - 08:00 PM EST - (11/24/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="c702015324b981e7b0951f5b9398217d">
+    <title>Ohio vs Texas State - 08:00 PM EST - (11/24/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="2a822237ba666a4494b960e5263cf325">
+    <title>Liberty vs Kansas State - 08:00 PM EST - (11/24/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="81808fca2bff73d6c89012f758d6713e">
+    <title>Ohio vs Texas State - 08:00 PM EST - (11/24/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="fb263e59d35b753fda39903f5bc0c754">
+    <title>Eagles vs Rams - 08:20 PM EST - (11/24/2024)</title>
+    <desc>05:20 PM PST / 06:20 PM MST / 08:20 PM EST
+01:20 AM GMT / 02:20 AM CET / 09:20 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="c58c5a802aa47960541b8b4a69e66d2c">
+    <title>Drake vs Vanderbilt - 08:30 PM EST - (11/24/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="026b854660b43c528ada787914804bc2">
+    <title>Drake vs Vanderbilt - 08:30 PM EST - (11/24/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+  </programme>
+  <programme start="20241124144412 +0000" stop="20241126144412 +0000" channel="106bfd397886b63a01a96613957f1eb9">
+    <title>Nets vs Kings - 09:00 PM EST - (11/24/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+</tv>
