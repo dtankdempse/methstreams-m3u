@@ -2,7 +2,7 @@
 
 # MethStreams Live Sports Playlists
 
-MethStreams is a platform that offers free live tv sports streaming across selected categories. Users can stream and watch sports directly through their browser without the need for an account or subscription.
+MethStreams is a platform that offers free live sports streaming across selected categories. Users can stream and watch sports directly through their browser without the need for an account or subscription.
 
 For added flexibility, this repository provides an M3U playlist featuring MethStreams's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists.
 
