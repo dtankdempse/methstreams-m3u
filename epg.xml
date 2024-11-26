@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="bedbc550cb0adfa9fa1a9a7a14c6e954">
+    <display-name>Magic vs Hornets - 07:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="abb8986a5fe6151b97477209b67a9d32">
+    <display-name>Raptors vs Pistons - 07:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c8d6334798035883e5bc5a02d81c25ef">
+    <display-name>Pelicans vs Pacers - 07:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c2f2fd1df638413cfabaae7ea8d00207">
+    <display-name>Mavericks vs Hawks - 07:30 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5542c22a600f5fc2bebe9940eba21f56">
+    <display-name>Clippers vs Celtics - 07:30 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="32e3c5a7c100caed01eb3cc7b6e3417e">
+    <display-name>NFL Network streams live - 07:57 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fc02cd6b6600f58bbacd2216fd82c299">
+    <display-name>NFL REDZONE streams live - 07:57 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e0f093b6a22c3496f37ef94ec8bc0726">
+    <display-name>Blazers vs Grizzlies - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="67c6af5147ff0db67d78268bf54dee23">
+    <display-name>WWE: Monday Night Raw 2024 - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5db90bf4ff741149072b60055256645d">
+    <display-name>M.E Shore vs Arkansas - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c9ca3cbd13adb5082921e0fef0ba7e2f">
+    <display-name>McNeese vs Liberty (Championship game) - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c1e5c3757fcd7c7be0d28c65b73f9db0">
+    <display-name>Green Bay vs Ohio State - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="dd864c36646adb42ce3ffa83c66a0203">
+    <display-name>Central Michigan vs Minnesota - 08:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7418e0ab5c195a1a966b23c269e1b04d">
+    <display-name>Ravens vs Chargers - 08:15 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d5fedf9c1179aae466c1618b398a32a7">
+    <display-name>Xavier vs South Carolina - 08:30 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fc4e5ab8162a90494b95c4259dee66d9">
+    <display-name>Knicks vs Nuggets - 09:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f96884fd6dc70716f819b9dcffcbceea">
+    <display-name>Auburn vs Iowa State - 09:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cd5ca586314d448d8c8594ca7d2a5a95">
+    <display-name>Little Rock vs Illinois - 09:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="de6ccc9e34a496cbab41c2b43fb58c21">
+    <display-name>Nets vs Warriors - 10:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ba4cea0492f08baebee2c1fff647d08b">
+    <display-name>Thunder vs Kings - 10:00 PM EST - (11/25/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="09a4f2fbaea22e33fe3b279f1fef2e26">
+    <display-name>WWE: NXT 2024 - 08:00 PM EST - (11/26/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="bedbc550cb0adfa9fa1a9a7a14c6e954">
+    <title>Magic vs Hornets - 07:00 PM EST - (11/25/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="abb8986a5fe6151b97477209b67a9d32">
+    <title>Raptors vs Pistons - 07:00 PM EST - (11/25/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="c8d6334798035883e5bc5a02d81c25ef">
+    <title>Pelicans vs Pacers - 07:00 PM EST - (11/25/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="c2f2fd1df638413cfabaae7ea8d00207">
+    <title>Mavericks vs Hawks - 07:30 PM EST - (11/25/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="5542c22a600f5fc2bebe9940eba21f56">
+    <title>Clippers vs Celtics - 07:30 PM EST - (11/25/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="32e3c5a7c100caed01eb3cc7b6e3417e">
+    <title>NFL Network streams live - 07:57 PM EST - (11/25/2024)</title>
+    <desc>04:57 PM PST / 05:57 PM MST / 07:57 PM EST
+12:57 AM GMT / 01:57 AM CET / 08:57 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="fc02cd6b6600f58bbacd2216fd82c299">
+    <title>NFL REDZONE streams live - 07:57 PM EST - (11/25/2024)</title>
+    <desc>04:57 PM PST / 05:57 PM MST / 07:57 PM EST
+12:57 AM GMT / 01:57 AM CET / 08:57 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="e0f093b6a22c3496f37ef94ec8bc0726">
+    <title>Blazers vs Grizzlies - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="67c6af5147ff0db67d78268bf54dee23">
+    <title>WWE: Monday Night Raw 2024 - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="5db90bf4ff741149072b60055256645d">
+    <title>M.E Shore vs Arkansas - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="c9ca3cbd13adb5082921e0fef0ba7e2f">
+    <title>McNeese vs Liberty (Championship game) - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="c1e5c3757fcd7c7be0d28c65b73f9db0">
+    <title>Green Bay vs Ohio State - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="dd864c36646adb42ce3ffa83c66a0203">
+    <title>Central Michigan vs Minnesota - 08:00 PM EST - (11/25/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="7418e0ab5c195a1a966b23c269e1b04d">
+    <title>Ravens vs Chargers - 08:15 PM EST - (11/25/2024)</title>
+    <desc>05:15 PM PST / 06:15 PM MST / 08:15 PM EST
+01:15 AM GMT / 02:15 AM CET / 09:15 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="d5fedf9c1179aae466c1618b398a32a7">
+    <title>Xavier vs South Carolina - 08:30 PM EST - (11/25/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="fc4e5ab8162a90494b95c4259dee66d9">
+    <title>Knicks vs Nuggets - 09:00 PM EST - (11/25/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="f96884fd6dc70716f819b9dcffcbceea">
+    <title>Auburn vs Iowa State - 09:00 PM EST - (11/25/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="cd5ca586314d448d8c8594ca7d2a5a95">
+    <title>Little Rock vs Illinois - 09:00 PM EST - (11/25/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="de6ccc9e34a496cbab41c2b43fb58c21">
+    <title>Nets vs Warriors - 10:00 PM EST - (11/25/2024)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="ba4cea0492f08baebee2c1fff647d08b">
+    <title>Thunder vs Kings - 10:00 PM EST - (11/25/2024)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20241125235810 +0000" stop="20241127235810 +0000" channel="09a4f2fbaea22e33fe3b279f1fef2e26">
+    <title>WWE: NXT 2024 - 08:00 PM EST - (11/26/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+</tv>
