@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="7b37de2f1eb12408c55516ef62fc7465">
+    <display-name>Leganes vs Real Sociedad - 08:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8969c1fc06d3a5f8eed8ac56f6210c5e">
+    <display-name>Formula 1 Etihad Airways Abu Dhabi Grand Prix - 08:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10e6c0e747c913feec2280cc5e4d2d6a">
+    <display-name>Leicester City vs Brighton - 09:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="faacb5d3c4bad65a38944866a0630ceb">
+    <display-name>Ipswich Town vs Bournemouth - 09:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="44a7f30dc11a46fe1d8fb8b1ab500561">
+    <display-name>Fulham vs Arsenal - 09:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="3243ab5ef87e9385c43ef03d600e1d25">
+    <display-name>Hellas Verona vs Empoli - 09:00 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="4ff1eb5be0330a7872c7006385ae3c38">
+    <display-name>NFL Network streams live - 09:12 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b65be6fa6035136777e271f10a5a5fd7">
+    <display-name>NFL REDZONE streams live - 09:12 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e6eebb33622dbd1c1f9ce59865b87bda">
+    <display-name>CFB Playoff Selection - 09:12 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d0d21448035089afb32922f9d5e933fc">
+    <display-name>Athletic Club vs Villarreal - 10:15 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0c0b70d66f1337302a30c5f2ed7b6b88">
+    <display-name>Tottenham vs Chelsea - 11:30 AM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="896f614cb10bf11cacbf1d5095194713">
+    <display-name>Venezia vs Como - 12:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="a215664fce6aeec02a5ed8e7684ee65f">
+    <display-name>Richmond vs Auburn - 12:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2d264f154a9d16bb4e8db2c0f945296e">
+    <display-name>Oklahoma State vs Seton Hall - 12:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b625e0aadada222985308a15e44ed917">
+    <display-name>Osasuna vs Deportivo Alaves - 12:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2b60846c7ea178fe5ab084a54f0feea7">
+    <display-name>Vanderbilt vs TCU - 12:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2d059dfe2f8db998f4dd1a314651889e">
+    <display-name>Sixers vs Bulls - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="999ca736be045ac1a5739144bc7e41e7">
+    <display-name>Jets vs Dolphins - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="aecb50772a8ec7e9ab4cadfaa9f54adc">
+    <display-name>Falcons vs Vikings - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8a795a73eba34f8ff0ca878e8cd06181">
+    <display-name>Saints vs Giants - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e290a2edc223545cc457eff8edcb8e13">
+    <display-name>Panthers vs Eagles - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="23a3b71e99c361e9d2672072d1e04d36">
+    <display-name>Browns vs Steelers - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b058d9dbd77cfa4106b62dad9cb09028">
+    <display-name>Raiders vs Buccaneers - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8259f3c20e33046eb20491886e3ab986">
+    <display-name>Jaguars vs Titans - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0c05bcb626c9970a830312d98ec65e78">
+    <display-name>Kansas vs Missouri - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="6b9471d534a2cb3bde3c89a4e3c47dcc">
+    <display-name>Tarleton vs UCF - 01:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="3d3dafe3f5f2a50992fc681830fe6d19">
+    <display-name>Howard vs Cincinnati - 02:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="926ca3daae89449ee05572a3f9ab6d1e">
+    <display-name>Napoli vs Lazio - 02:45 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9a5744463ad9af7e35d40e439d0d8638">
+    <display-name>Atletico Madrid vs Sevilla - 03:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="114acad32f5bd87197c29681aa745f59">
+    <display-name>Texas A&amp;M vs Texas Tech - 03:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c803b16e9577ba7e9e46da638abc51d6">
+    <display-name>Rice vs Texas State - 03:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="99d5b32ee0f517a6d06e1fb4f9bf0459">
+    <display-name>Florida Gulf Coast vs LSU - 03:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e297cae4420f3d02a7ae458cb5d28854">
+    <display-name>Bucks vs Nets - 03:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fceae6ad139cd999f9f04717589de25f">
+    <display-name>Arkansas State vs Memphis - 04:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b10896b80bed02533d1b3e2dbad680de">
+    <display-name>Prairie View A&amp;M vs Miss. State - 04:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8f1c060544ffcd58e2af7fa5eb5cf482">
+    <display-name>Seahawks vs Cardinals - 04:05 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d73f16469c97000d7f0ee94c2882a25f">
+    <display-name>Bills vs Rams - 04:25 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f9ff68030ed3eaa410fe636596f58660">
+    <display-name>Bears vs 49ers - 04:25 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f4d1af4a9812a4dc8bc14f433b5fdc23">
+    <display-name>UConn vs Texas - 05:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9eac09abc5b3c3c29ce927370c29919d">
+    <display-name>Hornets vs Pacers  - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7de694325ee1afd179d9b956ebadf3f9">
+    <display-name>Nuggets vs Hawks - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="25cad7b3a9c1b7880bf1b9c6aae26076">
+    <display-name>Cavaliers vs Heat - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="344379953e5929f393a7c52919974ae4">
+    <display-name>Jackson State vs Iowa State - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="efbb8174e6d1fd87ebc954c476edc630">
+    <display-name>Duke vs Louisville - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7f89814bbfdce3a4552e30e81dc3657e">
+    <display-name>UCLA vs Oregon - 06:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ab3a9a40103412d2968a2165b5ba6731">
+    <display-name>Suns vs Magic - 06:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="56e032d89fd9f6cdd0eed1ec41a595ba">
+    <display-name>Grizzlies vs Wizards - 07:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="418dea74056e973b6d4ac78ff3d1ac10">
+    <display-name>Pelicans vs Spurs - 07:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7d55afe440e1713e4485474008f22796">
+    <display-name>Chargers vs Chiefs - 08:20 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="69921a7337477b063fb00f5c1a8136ad">
+    <display-name>Timberwolves vs Warriors - 08:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8ee1c18a7af315c28af90073914144d8">
+    <display-name>Rockets vs Clippers - 09:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="45e2ff1d1af84f34082b88e34127d56d">
+    <display-name>Jazz vs Kings - 09:00 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="441345210dd096b2de8686db3278b035">
+    <display-name>Blazers vs Lakers - 09:30 PM EST - (12/08/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="7b37de2f1eb12408c55516ef62fc7465">
+    <title>Leganes vs Real Sociedad - 08:00 AM EST - (12/08/2024)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST
+01:00 PM GMT / 02:00 PM CET / 09:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="8969c1fc06d3a5f8eed8ac56f6210c5e">
+    <title>Formula 1 Etihad Airways Abu Dhabi Grand Prix - 08:00 AM EST - (12/08/2024)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST
+01:00 PM GMT / 02:00 PM CET / 09:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="10e6c0e747c913feec2280cc5e4d2d6a">
+    <title>Leicester City vs Brighton - 09:00 AM EST - (12/08/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="faacb5d3c4bad65a38944866a0630ceb">
+    <title>Ipswich Town vs Bournemouth - 09:00 AM EST - (12/08/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="44a7f30dc11a46fe1d8fb8b1ab500561">
+    <title>Fulham vs Arsenal - 09:00 AM EST - (12/08/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="3243ab5ef87e9385c43ef03d600e1d25">
+    <title>Hellas Verona vs Empoli - 09:00 AM EST - (12/08/2024)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="4ff1eb5be0330a7872c7006385ae3c38">
+    <title>NFL Network streams live - 09:12 AM EST - (12/08/2024)</title>
+    <desc>06:12 AM PST / 07:12 AM MST / 09:12 AM EST
+02:12 PM GMT / 03:12 PM CET / 10:12 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="b65be6fa6035136777e271f10a5a5fd7">
+    <title>NFL REDZONE streams live - 09:12 AM EST - (12/08/2024)</title>
+    <desc>06:12 AM PST / 07:12 AM MST / 09:12 AM EST
+02:12 PM GMT / 03:12 PM CET / 10:12 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="e6eebb33622dbd1c1f9ce59865b87bda">
+    <title>CFB Playoff Selection - 09:12 AM EST - (12/08/2024)</title>
+    <desc>06:12 AM PST / 07:12 AM MST / 09:12 AM EST
+02:12 PM GMT / 03:12 PM CET / 10:12 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="d0d21448035089afb32922f9d5e933fc">
+    <title>Athletic Club vs Villarreal - 10:15 AM EST - (12/08/2024)</title>
+    <desc>07:15 AM PST / 08:15 AM MST / 10:15 AM EST
+03:15 PM GMT / 04:15 PM CET / 11:15 PM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="0c0b70d66f1337302a30c5f2ed7b6b88">
+    <title>Tottenham vs Chelsea - 11:30 AM EST - (12/08/2024)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="896f614cb10bf11cacbf1d5095194713">
+    <title>Venezia vs Como - 12:00 PM EST - (12/08/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="a215664fce6aeec02a5ed8e7684ee65f">
+    <title>Richmond vs Auburn - 12:00 PM EST - (12/08/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="2d264f154a9d16bb4e8db2c0f945296e">
+    <title>Oklahoma State vs Seton Hall - 12:00 PM EST - (12/08/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="b625e0aadada222985308a15e44ed917">
+    <title>Osasuna vs Deportivo Alaves - 12:30 PM EST - (12/08/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="2b60846c7ea178fe5ab084a54f0feea7">
+    <title>Vanderbilt vs TCU - 12:30 PM EST - (12/08/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="2d059dfe2f8db998f4dd1a314651889e">
+    <title>Sixers vs Bulls - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="999ca736be045ac1a5739144bc7e41e7">
+    <title>Jets vs Dolphins - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="aecb50772a8ec7e9ab4cadfaa9f54adc">
+    <title>Falcons vs Vikings - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="8a795a73eba34f8ff0ca878e8cd06181">
+    <title>Saints vs Giants - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="e290a2edc223545cc457eff8edcb8e13">
+    <title>Panthers vs Eagles - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="23a3b71e99c361e9d2672072d1e04d36">
+    <title>Browns vs Steelers - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="b058d9dbd77cfa4106b62dad9cb09028">
+    <title>Raiders vs Buccaneers - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="8259f3c20e33046eb20491886e3ab986">
+    <title>Jaguars vs Titans - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="0c05bcb626c9970a830312d98ec65e78">
+    <title>Kansas vs Missouri - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="6b9471d534a2cb3bde3c89a4e3c47dcc">
+    <title>Tarleton vs UCF - 01:00 PM EST - (12/08/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="3d3dafe3f5f2a50992fc681830fe6d19">
+    <title>Howard vs Cincinnati - 02:00 PM EST - (12/08/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="926ca3daae89449ee05572a3f9ab6d1e">
+    <title>Napoli vs Lazio - 02:45 PM EST - (12/08/2024)</title>
+    <desc>11:45 AM PST / 12:45 PM MST / 02:45 PM EST
+07:45 PM GMT / 08:45 PM CET / 03:45 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="9a5744463ad9af7e35d40e439d0d8638">
+    <title>Atletico Madrid vs Sevilla - 03:00 PM EST - (12/08/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="114acad32f5bd87197c29681aa745f59">
+    <title>Texas A&amp;M vs Texas Tech - 03:00 PM EST - (12/08/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="c803b16e9577ba7e9e46da638abc51d6">
+    <title>Rice vs Texas State - 03:00 PM EST - (12/08/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="99d5b32ee0f517a6d06e1fb4f9bf0459">
+    <title>Florida Gulf Coast vs LSU - 03:00 PM EST - (12/08/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="e297cae4420f3d02a7ae458cb5d28854">
+    <title>Bucks vs Nets - 03:30 PM EST - (12/08/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="fceae6ad139cd999f9f04717589de25f">
+    <title>Arkansas State vs Memphis - 04:00 PM EST - (12/08/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="b10896b80bed02533d1b3e2dbad680de">
+    <title>Prairie View A&amp;M vs Miss. State - 04:00 PM EST - (12/08/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="8f1c060544ffcd58e2af7fa5eb5cf482">
+    <title>Seahawks vs Cardinals - 04:05 PM EST - (12/08/2024)</title>
+    <desc>01:05 PM PST / 02:05 PM MST / 04:05 PM EST
+09:05 PM GMT / 10:05 PM CET / 05:05 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="d73f16469c97000d7f0ee94c2882a25f">
+    <title>Bills vs Rams - 04:25 PM EST - (12/08/2024)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST
+09:25 PM GMT / 10:25 PM CET / 05:25 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="f9ff68030ed3eaa410fe636596f58660">
+    <title>Bears vs 49ers - 04:25 PM EST - (12/08/2024)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST
+09:25 PM GMT / 10:25 PM CET / 05:25 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="f4d1af4a9812a4dc8bc14f433b5fdc23">
+    <title>UConn vs Texas - 05:00 PM EST - (12/08/2024)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST
+10:00 PM GMT / 11:00 PM CET / 06:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="9eac09abc5b3c3c29ce927370c29919d">
+    <title>Hornets vs Pacers  - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="7de694325ee1afd179d9b956ebadf3f9">
+    <title>Nuggets vs Hawks - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="25cad7b3a9c1b7880bf1b9c6aae26076">
+    <title>Cavaliers vs Heat - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="344379953e5929f393a7c52919974ae4">
+    <title>Jackson State vs Iowa State - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="efbb8174e6d1fd87ebc954c476edc630">
+    <title>Duke vs Louisville - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="7f89814bbfdce3a4552e30e81dc3657e">
+    <title>UCLA vs Oregon - 06:00 PM EST - (12/08/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="ab3a9a40103412d2968a2165b5ba6731">
+    <title>Suns vs Magic - 06:30 PM EST - (12/08/2024)</title>
+    <desc>03:30 PM PST / 04:30 PM MST / 06:30 PM EST
+11:30 PM GMT / 12:30 AM CET / 07:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="56e032d89fd9f6cdd0eed1ec41a595ba">
+    <title>Grizzlies vs Wizards - 07:00 PM EST - (12/08/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="418dea74056e973b6d4ac78ff3d1ac10">
+    <title>Pelicans vs Spurs - 07:00 PM EST - (12/08/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="7d55afe440e1713e4485474008f22796">
+    <title>Chargers vs Chiefs - 08:20 PM EST - (12/08/2024)</title>
+    <desc>05:20 PM PST / 06:20 PM MST / 08:20 PM EST
+01:20 AM GMT / 02:20 AM CET / 09:20 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="69921a7337477b063fb00f5c1a8136ad">
+    <title>Timberwolves vs Warriors - 08:30 PM EST - (12/08/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="8ee1c18a7af315c28af90073914144d8">
+    <title>Rockets vs Clippers - 09:00 PM EST - (12/08/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="45e2ff1d1af84f34082b88e34127d56d">
+    <title>Jazz vs Kings - 09:00 PM EST - (12/08/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20241208131227 +0000" stop="20241210131227 +0000" channel="441345210dd096b2de8686db3278b035">
+    <title>Blazers vs Lakers - 09:30 PM EST - (12/08/2024)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST
+02:30 AM GMT / 03:30 AM CET / 10:30 AM CST</desc>
+  </programme>
+</tv>
