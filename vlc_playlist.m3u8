@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/methstreams-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="319eae4f5fe5aaa3951f306720eeb586" tvg-name="Bengals vs Cowboys" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",08:15 PM - Bengals vs Cowboys - 08:15 PM EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2F1%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="8a81624ad00aa9bc9674e9a509258922" tvg-name="NFL Network streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",12:14 AM - NFL Network streams live - 12:14 AM EST - (12/10/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fnfln%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="30d71e839e6dd46c55fbe01887cb040d" tvg-name="NFL REDZONE streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",12:14 AM - NFL REDZONE streams live - 12:14 AM EST - (12/10/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fredzone%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="7d7871d7a846483e369f2db924460c43" tvg-name="CFB Playoff Selection" tvg-logo="https://i.imgur.com/ko69eGS.png" group-title="CFB Streams",12:14 AM - CFB Playoff Selection - 12:14 AM EST - (12/10/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespn%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="40cdffafcc9ef55954fa2a0a93122c94" tvg-name="WWE: NXT 2024" tvg-logo="https://methstreams.com/icons/wwe.png" group-title="WWE Streams",08:00 PM - WWE: NXT 2024 - 08:00 PM EST - (12/10/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fwwestreams%2Fwwe-nxt-2022%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com

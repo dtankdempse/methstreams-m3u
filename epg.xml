@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="319eae4f5fe5aaa3951f306720eeb586">
+    <display-name>Bengals vs Cowboys - 08:15 PM EST - (12/09/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8a81624ad00aa9bc9674e9a509258922">
+    <display-name>NFL Network streams live - 12:14 AM EST - (12/10/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="30d71e839e6dd46c55fbe01887cb040d">
+    <display-name>NFL REDZONE streams live - 12:14 AM EST - (12/10/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7d7871d7a846483e369f2db924460c43">
+    <display-name>CFB Playoff Selection - 12:14 AM EST - (12/10/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="40cdffafcc9ef55954fa2a0a93122c94">
+    <display-name>WWE: NXT 2024 - 08:00 PM EST - (12/10/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241210041430 +0000" stop="20241212041430 +0000" channel="319eae4f5fe5aaa3951f306720eeb586">
+    <title>Bengals vs Cowboys - 08:15 PM EST - (12/09/2024)</title>
+    <desc>05:15 PM PST / 06:15 PM MST / 08:15 PM EST
+01:15 AM GMT / 02:15 AM CET / 09:15 AM CST</desc>
+  </programme>
+  <programme start="20241210041430 +0000" stop="20241212041430 +0000" channel="8a81624ad00aa9bc9674e9a509258922">
+    <title>NFL Network streams live - 12:14 AM EST - (12/10/2024)</title>
+    <desc>09:14 PM PST / 10:14 PM MST / 12:14 AM EST
+05:14 AM GMT / 06:14 AM CET / 01:14 PM CST</desc>
+  </programme>
+  <programme start="20241210041430 +0000" stop="20241212041430 +0000" channel="30d71e839e6dd46c55fbe01887cb040d">
+    <title>NFL REDZONE streams live - 12:14 AM EST - (12/10/2024)</title>
+    <desc>09:14 PM PST / 10:14 PM MST / 12:14 AM EST
+05:14 AM GMT / 06:14 AM CET / 01:14 PM CST</desc>
+  </programme>
+  <programme start="20241210041430 +0000" stop="20241212041430 +0000" channel="7d7871d7a846483e369f2db924460c43">
+    <title>CFB Playoff Selection - 12:14 AM EST - (12/10/2024)</title>
+    <desc>09:14 PM PST / 10:14 PM MST / 12:14 AM EST
+05:14 AM GMT / 06:14 AM CET / 01:14 PM CST</desc>
+  </programme>
+  <programme start="20241210041430 +0000" stop="20241212041430 +0000" channel="40cdffafcc9ef55954fa2a0a93122c94">
+    <title>WWE: NXT 2024 - 08:00 PM EST - (12/10/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+</tv>
