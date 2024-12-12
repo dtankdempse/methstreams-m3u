@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="d1e15bc40a6e786ce57fea47540186b9">
+    <display-name>NFL Network streams live - 06:12 AM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c35ebcc34c2443d6219dcdfec977ec10">
+    <display-name>NFL REDZONE streams live - 06:12 AM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f10f545644a6c7e05b75a0c158a0eeae">
+    <display-name>CFB Playoff Selection - 06:12 AM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="995add86de71480fe57345662d299190">
+    <display-name>Astana vs Chelsea (Conference League) - 10:30 AM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9b293462583fb8ddfdd74d23ddc78193">
+    <display-name>Roma vs Sporting Braga - 12:45 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c95061e8e8d903c1b35369b493fd1a0e">
+    <display-name>Olympiakos Piraeus vs Twente - 12:45 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f34c29814fe6e0ac5d43b478464589a8">
+    <display-name>Malmo FF vs Galatasaray - 12:45 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="6cf2cebb809a52a4d081e9a27d1a07f0">
+    <display-name>Viktoria Plzen vs Manchester United - 12:45 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e3757bd609df7e4d95355b53636fa533">
+    <display-name>DAZN: Mourad Aliev vs Davide Brito - 01:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="86b18503cf4419e627e1bab73f6609f7">
+    <display-name>Bodo/Glimt vs Besiktas - 03:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fee6e0bf4674d07c324ff8985b928673">
+    <display-name>Rangers vs Tottenham - 03:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9433b88aa633a64c3a5674e41d85f428">
+    <display-name>Olympique Lyonnais vs Eintracht - 03:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8fdc7060ee1471d43b368507a9e1227d">
+    <display-name>Porto vs Midtjylland - 03:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ef02323a8e0269b9c62a8e3cb40ac154">
+    <display-name>Ajax vs Lazio - 03:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="875f8176845b7091fc744077db0aba7d">
+    <display-name>DAZN: Ardreal Holmes vs Edwine Humaine - 06:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10b044f5d5ec309d018b0ca7e6dd8d3a">
+    <display-name>Pistons vs Celtics - 07:30 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1fe0be41c4e3203bc279324c4222d6a6">
+    <display-name>Raptors vs Heat - 07:30 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7c2f70c9d8a69a0eaaa2a8a932989682">
+    <display-name>Kings vs Pelicans - 08:00 PM EST - (12/12/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="d1e15bc40a6e786ce57fea47540186b9">
+    <title>NFL Network streams live - 06:12 AM EST - (12/12/2024)</title>
+    <desc>03:12 AM PST / 04:12 AM MST / 06:12 AM EST
+11:12 AM GMT / 12:12 PM CET / 07:12 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="c35ebcc34c2443d6219dcdfec977ec10">
+    <title>NFL REDZONE streams live - 06:12 AM EST - (12/12/2024)</title>
+    <desc>03:12 AM PST / 04:12 AM MST / 06:12 AM EST
+11:12 AM GMT / 12:12 PM CET / 07:12 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="f10f545644a6c7e05b75a0c158a0eeae">
+    <title>CFB Playoff Selection - 06:12 AM EST - (12/12/2024)</title>
+    <desc>03:12 AM PST / 04:12 AM MST / 06:12 AM EST
+11:12 AM GMT / 12:12 PM CET / 07:12 PM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="995add86de71480fe57345662d299190">
+    <title>Astana vs Chelsea (Conference League) - 10:30 AM EST - (12/12/2024)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="9b293462583fb8ddfdd74d23ddc78193">
+    <title>Roma vs Sporting Braga - 12:45 PM EST - (12/12/2024)</title>
+    <desc>09:45 AM PST / 10:45 AM MST / 12:45 PM EST
+05:45 PM GMT / 06:45 PM CET / 01:45 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="c95061e8e8d903c1b35369b493fd1a0e">
+    <title>Olympiakos Piraeus vs Twente - 12:45 PM EST - (12/12/2024)</title>
+    <desc>09:45 AM PST / 10:45 AM MST / 12:45 PM EST
+05:45 PM GMT / 06:45 PM CET / 01:45 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="f34c29814fe6e0ac5d43b478464589a8">
+    <title>Malmo FF vs Galatasaray - 12:45 PM EST - (12/12/2024)</title>
+    <desc>09:45 AM PST / 10:45 AM MST / 12:45 PM EST
+05:45 PM GMT / 06:45 PM CET / 01:45 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="6cf2cebb809a52a4d081e9a27d1a07f0">
+    <title>Viktoria Plzen vs Manchester United - 12:45 PM EST - (12/12/2024)</title>
+    <desc>09:45 AM PST / 10:45 AM MST / 12:45 PM EST
+05:45 PM GMT / 06:45 PM CET / 01:45 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="e3757bd609df7e4d95355b53636fa533">
+    <title>DAZN: Mourad Aliev vs Davide Brito - 01:00 PM EST - (12/12/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+    <category>Boxing Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="86b18503cf4419e627e1bab73f6609f7">
+    <title>Bodo/Glimt vs Besiktas - 03:00 PM EST - (12/12/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="fee6e0bf4674d07c324ff8985b928673">
+    <title>Rangers vs Tottenham - 03:00 PM EST - (12/12/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="9433b88aa633a64c3a5674e41d85f428">
+    <title>Olympique Lyonnais vs Eintracht - 03:00 PM EST - (12/12/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="8fdc7060ee1471d43b368507a9e1227d">
+    <title>Porto vs Midtjylland - 03:00 PM EST - (12/12/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="ef02323a8e0269b9c62a8e3cb40ac154">
+    <title>Ajax vs Lazio - 03:00 PM EST - (12/12/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="875f8176845b7091fc744077db0aba7d">
+    <title>DAZN: Ardreal Holmes vs Edwine Humaine - 06:00 PM EST - (12/12/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+    <category>Boxing Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="10b044f5d5ec309d018b0ca7e6dd8d3a">
+    <title>Pistons vs Celtics - 07:30 PM EST - (12/12/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="1fe0be41c4e3203bc279324c4222d6a6">
+    <title>Raptors vs Heat - 07:30 PM EST - (12/12/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241212101221 +0000" stop="20241214101221 +0000" channel="7c2f70c9d8a69a0eaaa2a8a932989682">
+    <title>Kings vs Pelicans - 08:00 PM EST - (12/12/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+</tv>
