@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/methstreams-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="2eecc0797654320a41c3624e60a9a931" tvg-name="NFL Network streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams" tvc-guide-genre="NFL Streams",09:12 AM - NFL Network streams live - 09:12 AM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fnfln%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="8fae5b8aeeb1bb89d543a7a4105e0534" tvg-name="NFL REDZONE streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams" tvc-guide-genre="NFL Streams",09:12 AM - NFL REDZONE streams live - 09:12 AM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fredzone%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="bd8968208978d077e422b0ce8c616a75" tvg-name="Tottenham vs Manchester United" tvg-logo="https://crackstreams.in/icons/socc.png" group-title="Soccer Streams" tvc-guide-genre="Soccer Streams",03:00 PM - Tottenham vs Manchester United - 03:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fcdn.olympics123.com%2Fsoccerstreams%2F1%2Fvideo2.php&referer=https%3A%2F%2Fcrackstreams.in
+#EXTINF:-1 tvg-id="5760617c285d321aed8680b1297db739" tvg-name="Chelsea vs Shamrock Rovers" tvg-logo="https://crackstreams.in/icons/socc.png" group-title="Soccer Streams" tvc-guide-genre="Soccer Streams",03:00 PM - Chelsea vs Shamrock Rovers - 03:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fcdn.olympics123.com%2Fsoccerstreams%2F2%2Fvideo2.php&referer=https%3A%2F%2Fcrackstreams.in
+#EXTINF:-1 tvg-id="97551ad413a82b4ff10e583706a93855" tvg-name="Internazionale vs Udinese" tvg-logo="https://crackstreams.in/icons/seriea.png" group-title="Soccer Streams" tvc-guide-genre="Soccer Streams",03:00 PM - Internazionale vs Udinese - 03:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fsoccerstreams%2Fserie-a%2F1%2Fvideo.php&referer=https%3A%2F%2Fcrackstreams.in
+#EXTINF:-1 tvg-id="416801cb4d9b6cad7297795b19c63ee1" tvg-name="Jazz vs Pistons" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",07:00 PM - Jazz vs Pistons - 07:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fpistons%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="c44a9d80db913c6cd1f1d09f24b7e6cd" tvg-name="Thunder vs Magic" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",07:00 PM - Thunder vs Magic - 07:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fthunder%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="e490b889d85d9127171eaf8dc5352d1c" tvg-name="Hornets vs Wizards" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",07:00 PM - Hornets vs Wizards - 07:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fhornets%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="642a48f5a9341bdd5bfef7583d03dbe7" tvg-name="Georgia Southern vs Sam Houston" tvg-logo="https://i.imgur.com/ko69eGS.png" group-title="CFB Streams" tvc-guide-genre="CFB Streams",07:00 PM - Georgia Southern vs Sam Houston - 07:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespn2%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="fa3119bf2195510218709f16fb58cc42" tvg-name="Bulls vs Celtics" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",07:30 PM - Bulls vs Celtics - 07:30 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2FCeltics%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="1eed9beebc822b49c23c00638909b321" tvg-name="Nets vs Raptors" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",07:30 PM - Nets vs Raptors - 07:30 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fraptors%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="967b3e373c97a85fa6ac85aa9493281d" tvg-name="Pelicans vs Rockets" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",08:00 PM - Pelicans vs Rockets - 08:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Frockets%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="de3946670fa2e0bd424aa33ede72a30b" tvg-name="Warriors vs Grizzlies" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",08:00 PM - Warriors vs Grizzlies - 08:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fwarriors%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="5097bbd5ba8dcf92085f07eb697eda7c" tvg-name="Hawks vs Spurs" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",08:00 PM - Hawks vs Spurs - 08:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fspurs%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="9225222884a4dba0a63d651ee2cc0336" tvg-name="Broncos vs Chargers" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams" tvc-guide-genre="NFL Streams",08:15 PM - Broncos vs Chargers - 08:15 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2F1%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="2cf20e9510888eaa0b72b1fcbe51595e" tvg-name="Clippers vs Mavericks" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",08:30 PM - Clippers vs Mavericks - 08:30 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fmavericks%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="c309508aa972f20ce26f64504e0b190f" tvg-name="Pacers vs Suns" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",09:00 PM - Pacers vs Suns - 09:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fsuns%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="80a535371e41616868c13ac6fab0a9a6" tvg-name="Knicks vs Timberwolves" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",09:30 PM - Knicks vs Timberwolves - 09:30 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fknicks%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="841e9a839903af488af3712b1697183c" tvg-name="Nuggets vs Blazers" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",10:00 PM - Nuggets vs Blazers - 10:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fnuggets%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="7b61bdbb37aec749ce4e9f8b5eba7b71" tvg-name="Lakers vs Kings" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams" tvc-guide-genre="NBA Streams",10:00 PM - Lakers vs Kings - 10:00 PM EST - (12/19/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Flakers%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="964deb2776e4c19367f2bcc3160f4606" tvg-name="Ohio vs Jacksonville State" tvg-logo="https://i.imgur.com/ko69eGS.png" group-title="CFB Streams" tvc-guide-genre="CFB Streams",12:00 PM - Ohio vs Jacksonville State - 12:00 PM EST - (12/20/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespn%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="70e82982bde594922f6bddb6690f8edd" tvg-name="Tulane vs Florida" tvg-logo="https://i.imgur.com/ko69eGS.png" group-title="CFB Streams" tvc-guide-genre="CFB Streams",03:30 PM - Tulane vs Florida - 03:30 PM EST - (12/20/2024)
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespn2%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com

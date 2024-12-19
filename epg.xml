@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="2eecc0797654320a41c3624e60a9a931">
+    <display-name>NFL Network streams live - 09:12 AM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8fae5b8aeeb1bb89d543a7a4105e0534">
+    <display-name>NFL REDZONE streams live - 09:12 AM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="bd8968208978d077e422b0ce8c616a75">
+    <display-name>Tottenham vs Manchester United - 03:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5760617c285d321aed8680b1297db739">
+    <display-name>Chelsea vs Shamrock Rovers - 03:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="97551ad413a82b4ff10e583706a93855">
+    <display-name>Internazionale vs Udinese - 03:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="416801cb4d9b6cad7297795b19c63ee1">
+    <display-name>Jazz vs Pistons - 07:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c44a9d80db913c6cd1f1d09f24b7e6cd">
+    <display-name>Thunder vs Magic - 07:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e490b889d85d9127171eaf8dc5352d1c">
+    <display-name>Hornets vs Wizards - 07:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="642a48f5a9341bdd5bfef7583d03dbe7">
+    <display-name>Georgia Southern vs Sam Houston - 07:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fa3119bf2195510218709f16fb58cc42">
+    <display-name>Bulls vs Celtics - 07:30 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1eed9beebc822b49c23c00638909b321">
+    <display-name>Nets vs Raptors - 07:30 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="967b3e373c97a85fa6ac85aa9493281d">
+    <display-name>Pelicans vs Rockets - 08:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="de3946670fa2e0bd424aa33ede72a30b">
+    <display-name>Warriors vs Grizzlies - 08:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="5097bbd5ba8dcf92085f07eb697eda7c">
+    <display-name>Hawks vs Spurs - 08:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9225222884a4dba0a63d651ee2cc0336">
+    <display-name>Broncos vs Chargers - 08:15 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2cf20e9510888eaa0b72b1fcbe51595e">
+    <display-name>Clippers vs Mavericks - 08:30 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c309508aa972f20ce26f64504e0b190f">
+    <display-name>Pacers vs Suns - 09:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="80a535371e41616868c13ac6fab0a9a6">
+    <display-name>Knicks vs Timberwolves - 09:30 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="841e9a839903af488af3712b1697183c">
+    <display-name>Nuggets vs Blazers - 10:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7b61bdbb37aec749ce4e9f8b5eba7b71">
+    <display-name>Lakers vs Kings - 10:00 PM EST - (12/19/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="964deb2776e4c19367f2bcc3160f4606">
+    <display-name>Ohio vs Jacksonville State - 12:00 PM EST - (12/20/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="70e82982bde594922f6bddb6690f8edd">
+    <display-name>Tulane vs Florida - 03:30 PM EST - (12/20/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="2eecc0797654320a41c3624e60a9a931">
+    <title>NFL Network streams live - 09:12 AM EST - (12/19/2024)</title>
+    <desc>06:12 AM PST / 07:12 AM MST / 09:12 AM EST
+02:12 PM GMT / 03:12 PM CET / 10:12 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="8fae5b8aeeb1bb89d543a7a4105e0534">
+    <title>NFL REDZONE streams live - 09:12 AM EST - (12/19/2024)</title>
+    <desc>06:12 AM PST / 07:12 AM MST / 09:12 AM EST
+02:12 PM GMT / 03:12 PM CET / 10:12 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="bd8968208978d077e422b0ce8c616a75">
+    <title>Tottenham vs Manchester United - 03:00 PM EST - (12/19/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="5760617c285d321aed8680b1297db739">
+    <title>Chelsea vs Shamrock Rovers - 03:00 PM EST - (12/19/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="97551ad413a82b4ff10e583706a93855">
+    <title>Internazionale vs Udinese - 03:00 PM EST - (12/19/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>Soccer Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="416801cb4d9b6cad7297795b19c63ee1">
+    <title>Jazz vs Pistons - 07:00 PM EST - (12/19/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="c44a9d80db913c6cd1f1d09f24b7e6cd">
+    <title>Thunder vs Magic - 07:00 PM EST - (12/19/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="e490b889d85d9127171eaf8dc5352d1c">
+    <title>Hornets vs Wizards - 07:00 PM EST - (12/19/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="642a48f5a9341bdd5bfef7583d03dbe7">
+    <title>Georgia Southern vs Sam Houston - 07:00 PM EST - (12/19/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="fa3119bf2195510218709f16fb58cc42">
+    <title>Bulls vs Celtics - 07:30 PM EST - (12/19/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="1eed9beebc822b49c23c00638909b321">
+    <title>Nets vs Raptors - 07:30 PM EST - (12/19/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="967b3e373c97a85fa6ac85aa9493281d">
+    <title>Pelicans vs Rockets - 08:00 PM EST - (12/19/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="de3946670fa2e0bd424aa33ede72a30b">
+    <title>Warriors vs Grizzlies - 08:00 PM EST - (12/19/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="5097bbd5ba8dcf92085f07eb697eda7c">
+    <title>Hawks vs Spurs - 08:00 PM EST - (12/19/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="9225222884a4dba0a63d651ee2cc0336">
+    <title>Broncos vs Chargers - 08:15 PM EST - (12/19/2024)</title>
+    <desc>05:15 PM PST / 06:15 PM MST / 08:15 PM EST
+01:15 AM GMT / 02:15 AM CET / 09:15 AM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="2cf20e9510888eaa0b72b1fcbe51595e">
+    <title>Clippers vs Mavericks - 08:30 PM EST - (12/19/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="c309508aa972f20ce26f64504e0b190f">
+    <title>Pacers vs Suns - 09:00 PM EST - (12/19/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="80a535371e41616868c13ac6fab0a9a6">
+    <title>Knicks vs Timberwolves - 09:30 PM EST - (12/19/2024)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST
+02:30 AM GMT / 03:30 AM CET / 10:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="841e9a839903af488af3712b1697183c">
+    <title>Nuggets vs Blazers - 10:00 PM EST - (12/19/2024)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="7b61bdbb37aec749ce4e9f8b5eba7b71">
+    <title>Lakers vs Kings - 10:00 PM EST - (12/19/2024)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="964deb2776e4c19367f2bcc3160f4606">
+    <title>Ohio vs Jacksonville State - 12:00 PM EST - (12/20/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241219131316 +0000" stop="20241221131316 +0000" channel="70e82982bde594922f6bddb6690f8edd">
+    <title>Tulane vs Florida - 03:30 PM EST - (12/20/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+</tv>
