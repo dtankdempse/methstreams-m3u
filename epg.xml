@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="c374f6265036d3d855528f93c26f8c77">
+    <display-name>NFL Network streams live - 09:10 AM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7afc71f69baca9f5209c19cac2b6c2e2">
+    <display-name>NFL REDZONE streams live - 09:10 AM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="4806b38515bd5c1c75890cb3e0d8c847">
+    <display-name>College GameDay - 09:10 AM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="3c198ea6378180030cd874e9c89aaac7">
+    <display-name>DAZN: Tyson Fury vs Oleksandr Usyk - 11:00 AM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="6705a58706b89f5e954590960f70ed55">
+    <display-name>SMU vs Penn State - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="610516daafdafb7e1e7124fda5847358">
+    <display-name>South Dakota State vs North Dakota - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="554643e7126b86eeb347a8d20b34bcb2">
+    <display-name>Duke vs Georgia Tech - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ba3d39e26a7a9a365968404ea7d44ef2">
+    <display-name>North Florida vs Florida - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c5c627052203f32f45f1c4ac601b3103">
+    <display-name>Delaware State vs Alabama State - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b2df34084adf627b2161c61724d87581">
+    <display-name>UConn vs Butler - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="685ac96daae697831f166322edc7b0dd">
+    <display-name>SMU vs Boston College- NCAAB streams live - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="685586dc630cfaf04b858c865db201b1">
+    <display-name>Princeton vs Rutgers- NCAAB streams live - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b1b2a9965f229d941bb8c95acb31488d">
+    <display-name>Chattanooga vs Indiana - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="03aeb4f10bc0081dd5591388ef02c1bf">
+    <display-name>Syracuse vs Maryland - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="7935562d698aec0e6ef15819be21c12f">
+    <display-name>Virginia Tech vs Saint Joseph's - 12:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="89953f147a6a08fcd80bf974b0dffaa6">
+    <display-name>Mississippi State vs Memphis - 12:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="273cd1a55db1c1a0fca45749e2814150">
+    <display-name>Texans vs Chiefs - 01:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="99f81a110e94cd36894bf4e060ea2668">
+    <display-name>Texas A&amp;M-CC vs Houston - 02:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="63635c01dc9daeb4223092bbfa504865">
+    <display-name>Florida Atlantic vs Michigan State - 02:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="dd537dab5f6f1115f5d410e97f9280ac">
+    <display-name>Wake Forest vs Clemson - 02:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d843b30a165831b00b379ebcd9cd52e9">
+    <display-name>Louisville vs Florida State - 02:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="475df394784a84abc3e50414860916ef">
+    <display-name>Faileigh Dickinson vs Minnesota - 02:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="a42474a5a566888d491577dca0827b1d">
+    <display-name>North Carolina A&amp;T vs Arkansas - 02:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="391905ebf2f0bb2179b8ca8b52f16619">
+    <display-name>UCLA vs North Carolina - 03:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="8160e9bd5be7d022fe8dfe56b13cdb50">
+    <display-name>South Dakota vs Montana State - 03:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="c5775dfbce9ff543a7870875be2d8055">
+    <display-name>Clemson vs Texas - 04:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="bd4bc5eb1e0e1261a97186b1988972f9">
+    <display-name>Villanova vs Creighton - 04:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cbdc896079c082df46ff7e068735debb">
+    <display-name>Arizona State vs Massachusetts - 04:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="cbe6ab37421d2bdd97c6e1716851daeb">
+    <display-name>DePaul vs Northwestern - 04:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="6d84a7e16eb97d368dd4e702c2c74b05">
+    <display-name>Steelers vs Ravens - 04:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f1808df5ac163747e8277a6aec6a16e0">
+    <display-name>Purdue vs Auburn - 04:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="21470140ad8b74aed5daa31bdbf61826">
+    <display-name>Ohio State vs Kentucky - 05:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="414f2a09e243756d30dfc50c1327b1c9">
+    <display-name>Lakers vs Kings - 06:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="a4b2126f22b6e6de404934227dc4ba8d">
+    <display-name>Utah vs Iowa - 06:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="3a13a1d3ac5f3eddfcace2e087a42594">
+    <display-name>Temple vs Rhode Island - 06:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="d191cec1fa27b6b30b7842e9f84a2b46">
+    <display-name>Heat vs Magic - 07:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="e31e4dca95cf784700a38385316ae2fe">
+    <display-name>Grizzlies vs Hawks - 07:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="b4269df95ccb68ed817ec5e07cbda0c0">
+    <display-name>Jazz vs Nets - 07:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="4243e29cb7d1307fbd3d83da7756e890">
+    <display-name>Sixers vs Cavaliers - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="aeab7d2900747108486ab03ac72706a5">
+    <display-name>Celtics vs Bulls - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="75adfedca52790c2383dd1faecdbdbed">
+    <display-name>Wizards vs Bucks - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="15b9f73b8d118bc991dd3ee9ca9b7f37">
+    <display-name>Warriors vs Timberwolves - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="770227c23bc7a9f5da270f3a8dc0dc7e">
+    <display-name>Knicks vs Pelicans - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="f8f2599df9514fa0e86bcdc522c78e35">
+    <display-name>Tennessee vs Ohio State - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="20da56888c3454acbe4751cc7ca92bd2">
+    <display-name>All Elite Wrestling: Collision - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="653bea81575574f2f0fcd3e9cc5ecb01">
+    <display-name>Oregon vs Stanford - 08:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="48951d5cbab21dc6532fb9a06761ba4f">
+    <display-name>Clippers vs Mavericks - 08:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="fa9a37418e5bd68ce61bb4cc96855546">
+    <display-name>Blazers vs Spurs - 08:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="92a0df71a0d8c0ac6f714d5995e1feee">
+    <display-name>Pistons vs Suns - 09:00 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="ef63775e44acae3992860c00129b714d">
+    <display-name>California vs San Diego State - 10:30 PM EST - (12/21/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="c374f6265036d3d855528f93c26f8c77">
+    <title>NFL Network streams live - 09:10 AM EST - (12/21/2024)</title>
+    <desc>06:10 AM PST / 07:10 AM MST / 09:10 AM EST
+02:10 PM GMT / 03:10 PM CET / 10:10 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="7afc71f69baca9f5209c19cac2b6c2e2">
+    <title>NFL REDZONE streams live - 09:10 AM EST - (12/21/2024)</title>
+    <desc>06:10 AM PST / 07:10 AM MST / 09:10 AM EST
+02:10 PM GMT / 03:10 PM CET / 10:10 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="4806b38515bd5c1c75890cb3e0d8c847">
+    <title>College GameDay - 09:10 AM EST - (12/21/2024)</title>
+    <desc>06:10 AM PST / 07:10 AM MST / 09:10 AM EST
+02:10 PM GMT / 03:10 PM CET / 10:10 PM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="3c198ea6378180030cd874e9c89aaac7">
+    <title>DAZN: Tyson Fury vs Oleksandr Usyk - 11:00 AM EST - (12/21/2024)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+    <category>Boxing Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="6705a58706b89f5e954590960f70ed55">
+    <title>SMU vs Penn State - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="610516daafdafb7e1e7124fda5847358">
+    <title>South Dakota State vs North Dakota - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="554643e7126b86eeb347a8d20b34bcb2">
+    <title>Duke vs Georgia Tech - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="ba3d39e26a7a9a365968404ea7d44ef2">
+    <title>North Florida vs Florida - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="c5c627052203f32f45f1c4ac601b3103">
+    <title>Delaware State vs Alabama State - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="b2df34084adf627b2161c61724d87581">
+    <title>UConn vs Butler - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="685ac96daae697831f166322edc7b0dd">
+    <title>SMU vs Boston College- NCAAB streams live - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="685586dc630cfaf04b858c865db201b1">
+    <title>Princeton vs Rutgers- NCAAB streams live - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="b1b2a9965f229d941bb8c95acb31488d">
+    <title>Chattanooga vs Indiana - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="03aeb4f10bc0081dd5591388ef02c1bf">
+    <title>Syracuse vs Maryland - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="7935562d698aec0e6ef15819be21c12f">
+    <title>Virginia Tech vs Saint Joseph's - 12:00 PM EST - (12/21/2024)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="89953f147a6a08fcd80bf974b0dffaa6">
+    <title>Mississippi State vs Memphis - 12:30 PM EST - (12/21/2024)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="273cd1a55db1c1a0fca45749e2814150">
+    <title>Texans vs Chiefs - 01:00 PM EST - (12/21/2024)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="99f81a110e94cd36894bf4e060ea2668">
+    <title>Texas A&amp;M-CC vs Houston - 02:00 PM EST - (12/21/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="63635c01dc9daeb4223092bbfa504865">
+    <title>Florida Atlantic vs Michigan State - 02:00 PM EST - (12/21/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="dd537dab5f6f1115f5d410e97f9280ac">
+    <title>Wake Forest vs Clemson - 02:00 PM EST - (12/21/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="d843b30a165831b00b379ebcd9cd52e9">
+    <title>Louisville vs Florida State - 02:00 PM EST - (12/21/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="475df394784a84abc3e50414860916ef">
+    <title>Faileigh Dickinson vs Minnesota - 02:00 PM EST - (12/21/2024)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="a42474a5a566888d491577dca0827b1d">
+    <title>North Carolina A&amp;T vs Arkansas - 02:30 PM EST - (12/21/2024)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="391905ebf2f0bb2179b8ca8b52f16619">
+    <title>UCLA vs North Carolina - 03:00 PM EST - (12/21/2024)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="8160e9bd5be7d022fe8dfe56b13cdb50">
+    <title>South Dakota vs Montana State - 03:30 PM EST - (12/21/2024)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="c5775dfbce9ff543a7870875be2d8055">
+    <title>Clemson vs Texas - 04:00 PM EST - (12/21/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="bd4bc5eb1e0e1261a97186b1988972f9">
+    <title>Villanova vs Creighton - 04:00 PM EST - (12/21/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="cbdc896079c082df46ff7e068735debb">
+    <title>Arizona State vs Massachusetts - 04:00 PM EST - (12/21/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="cbe6ab37421d2bdd97c6e1716851daeb">
+    <title>DePaul vs Northwestern - 04:00 PM EST - (12/21/2024)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="6d84a7e16eb97d368dd4e702c2c74b05">
+    <title>Steelers vs Ravens - 04:30 PM EST - (12/21/2024)</title>
+    <desc>01:30 PM PST / 02:30 PM MST / 04:30 PM EST
+09:30 PM GMT / 10:30 PM CET / 05:30 AM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="f1808df5ac163747e8277a6aec6a16e0">
+    <title>Purdue vs Auburn - 04:30 PM EST - (12/21/2024)</title>
+    <desc>01:30 PM PST / 02:30 PM MST / 04:30 PM EST
+09:30 PM GMT / 10:30 PM CET / 05:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="21470140ad8b74aed5daa31bdbf61826">
+    <title>Ohio State vs Kentucky - 05:30 PM EST - (12/21/2024)</title>
+    <desc>02:30 PM PST / 03:30 PM MST / 05:30 PM EST
+10:30 PM GMT / 11:30 PM CET / 06:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="414f2a09e243756d30dfc50c1327b1c9">
+    <title>Lakers vs Kings - 06:00 PM EST - (12/21/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="a4b2126f22b6e6de404934227dc4ba8d">
+    <title>Utah vs Iowa - 06:00 PM EST - (12/21/2024)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="3a13a1d3ac5f3eddfcace2e087a42594">
+    <title>Temple vs Rhode Island - 06:30 PM EST - (12/21/2024)</title>
+    <desc>03:30 PM PST / 04:30 PM MST / 06:30 PM EST
+11:30 PM GMT / 12:30 AM CET / 07:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="d191cec1fa27b6b30b7842e9f84a2b46">
+    <title>Heat vs Magic - 07:00 PM EST - (12/21/2024)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="e31e4dca95cf784700a38385316ae2fe">
+    <title>Grizzlies vs Hawks - 07:30 PM EST - (12/21/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="b4269df95ccb68ed817ec5e07cbda0c0">
+    <title>Jazz vs Nets - 07:30 PM EST - (12/21/2024)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="4243e29cb7d1307fbd3d83da7756e890">
+    <title>Sixers vs Cavaliers - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="aeab7d2900747108486ab03ac72706a5">
+    <title>Celtics vs Bulls - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="75adfedca52790c2383dd1faecdbdbed">
+    <title>Wizards vs Bucks - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="15b9f73b8d118bc991dd3ee9ca9b7f37">
+    <title>Warriors vs Timberwolves - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="770227c23bc7a9f5da270f3a8dc0dc7e">
+    <title>Knicks vs Pelicans - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="f8f2599df9514fa0e86bcdc522c78e35">
+    <title>Tennessee vs Ohio State - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>CFB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="20da56888c3454acbe4751cc7ca92bd2">
+    <title>All Elite Wrestling: Collision - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>AEW Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="653bea81575574f2f0fcd3e9cc5ecb01">
+    <title>Oregon vs Stanford - 08:00 PM EST - (12/21/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="48951d5cbab21dc6532fb9a06761ba4f">
+    <title>Clippers vs Mavericks - 08:30 PM EST - (12/21/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="fa9a37418e5bd68ce61bb4cc96855546">
+    <title>Blazers vs Spurs - 08:30 PM EST - (12/21/2024)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="92a0df71a0d8c0ac6f714d5995e1feee">
+    <title>Pistons vs Suns - 09:00 PM EST - (12/21/2024)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+    <category>NBA Streams</category>
+  </programme>
+  <programme start="20241221131052 +0000" stop="20241223131052 +0000" channel="ef63775e44acae3992860c00129b714d">
+    <title>California vs San Diego State - 10:30 PM EST - (12/21/2024)</title>
+    <desc>07:30 PM PST / 08:30 PM MST / 10:30 PM EST
+03:30 AM GMT / 04:30 AM CET / 11:30 AM CST</desc>
+    <category>NCAAB Streams</category>
+  </programme>
+</tv>
