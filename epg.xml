@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="b14c5d9cb32b035b4de996b5524e18dd">
+    <display-name>NFL Network streams live - 09:11 AM EST - (12/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="323225ceb9e15bcdf83e9e123818b700">
+    <display-name>NFL REDZONE streams live - 09:11 AM EST - (12/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="60e9154fd20400e6fa5b958ef4fcc54c">
+    <display-name>WWE: NXT 2024 - 08:00 PM EST - (12/24/2024)</display-name>
+    <icon src="" />
+  </channel>
+  <programme start="20241224131200 +0000" stop="20241226131200 +0000" channel="b14c5d9cb32b035b4de996b5524e18dd">
+    <title>NFL Network streams live - 09:11 AM EST - (12/24/2024)</title>
+    <desc>06:11 AM PST / 07:11 AM MST / 09:11 AM EST
+02:11 PM GMT / 03:11 PM CET / 10:11 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241224131200 +0000" stop="20241226131200 +0000" channel="323225ceb9e15bcdf83e9e123818b700">
+    <title>NFL REDZONE streams live - 09:11 AM EST - (12/24/2024)</title>
+    <desc>06:11 AM PST / 07:11 AM MST / 09:11 AM EST
+02:11 PM GMT / 03:11 PM CET / 10:11 PM CST</desc>
+    <category>NFL Streams</category>
+  </programme>
+  <programme start="20241224131200 +0000" stop="20241226131200 +0000" channel="60e9154fd20400e6fa5b958ef4fcc54c">
+    <title>WWE: NXT 2024 - 08:00 PM EST - (12/24/2024)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+    <category>WWE Streams</category>
+  </programme>
+</tv>

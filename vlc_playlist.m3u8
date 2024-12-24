@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/methstreams-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="b14c5d9cb32b035b4de996b5524e18dd" tvg-name="NFL Network streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams" tvc-guide-genre="NFL Streams",09:11 AM - NFL Network streams live - 09:11 AM EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fnfln%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="323225ceb9e15bcdf83e9e123818b700" tvg-name="NFL REDZONE streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams" tvc-guide-genre="NFL Streams",09:11 AM - NFL REDZONE streams live - 09:11 AM EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fredzone%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+#EXTINF:-1 tvg-id="60e9154fd20400e6fa5b958ef4fcc54c" tvg-name="WWE: NXT 2024" tvg-logo="https://methstreams.com/icons/wwe.png" group-title="WWE Streams" tvc-guide-genre="WWE Streams",08:00 PM - WWE: NXT 2024 - 08:00 PM EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
+#EXTVLCOPT:http-origin=https://nbastreamswatch.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fwwestreams%2Fwwe-nxt-2022%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
